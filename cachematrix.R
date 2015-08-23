@@ -61,3 +61,4 @@ cacheSolve(matrix)
 ## Retrieving from the cache in the second run
 cacheSolve(matrix)
 ## cached data displayed
+## end of script
